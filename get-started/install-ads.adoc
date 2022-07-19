@@ -13,7 +13,7 @@ summary: 若要在解決某些環境先決條件之後安裝Astra Data Store、�
 
 若要安裝Astra Data Store預覽、請從下載安裝套件 https://mysupport.netapp.com/site/products/all/details/astra-data-store/downloads-tab["NetApp 支援網站"^] 並完成本程序中所述的安裝步驟。
 
-video::jz6EuryqYps[youtube, ]
+video::jz6EuryqYps[youtube]
 .您需要的是 #8217 ；需要的是什麼
 * link:requirements.html["開始安裝之前、請先準備好環境以進行Astra Data Store預覽部署"]。
 * 存取 https://mysupport.netapp.com/site/products/all/details/astra-data-store/downloads-tab["NetApp 支援網站"^]。 https://www.netapp.com/cloud-services/astra/data-store-form/["註冊"^] 如果您尚未擁有完整存取權限的NetApp支援網站帳戶、請預覽。
